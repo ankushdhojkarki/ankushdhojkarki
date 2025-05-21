@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Ankush Dhoj Karki
 
-🎓 Python Beginner | 💻 Aspiring Backend Developer | 📚 Sharing My Learning Journey  
+🎓 Python Beginner | 💻 Aspiring Python Developer | 📚 Sharing My Learning Journey  
 📍 Kathmandu, Nepal | 🧠 Always learning and building small projects
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
