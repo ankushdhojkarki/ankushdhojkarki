@@ -34,8 +34,8 @@
 ## 📘 My Learning Journey
 I began learning Python with the goal of building a future in tech, even though I had no programming background.  
 Over time, I’ve completed a Python bootcamp on Udemy and followed tutorials from creators like *Code With Harry*.  
-Alongside Python, I’ve explored tools like Git, GitHub, and even system admin platforms during my internship.  
-My focus right now is practicing consistently, building small projects, and learning how real-world tools and code work together.
+During my internship, I worked with system administration tools like Endpoint Central and Active Directory.  
+Right now, I'm exploring Git and GitHub while practicing consistently, building small projects, and learning how real-world tools and code work together.
 
 ---
 
