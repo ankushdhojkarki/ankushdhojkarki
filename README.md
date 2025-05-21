@@ -48,9 +48,11 @@ A collection of terminal-based beginner projects I created to practice Python.
 ---
 
 ## 📈 My Goals
-- Contribute to open-source beginner repositories
-- Build a Python portfolio with 10+ projects
-- Learn the basics of web development (HTML/CSS + Flask)
+- Strengthen my Python fundamentals by building real-world projects
+- Get comfortable using Git and GitHub by uploading my work
+- Document my learning journey consistently on GitHub and LinkedIn
+- Keep improving my problem-solving and logical thinking through practice
+
 
 ---
 
