@@ -60,9 +60,9 @@ A collection of terminal-based beginner projects I created to practice Python.
 ---
 
 ## 🔗 Connect with Me
-Linkedin: https://www.linkedin.com/in/ankush-dhoj-karki-59b0742ab/ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankush-dhoj-karki-59b0742ab/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankuskarki/)
 
-Instagram: https://www.instagram.com/ankuskarki/
 
 
 
