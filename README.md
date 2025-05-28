@@ -37,17 +37,13 @@
 ---
 
 ## 🧠 What I'm Learning
-Writing clean Python code and understanding logic flow
+- Writing clean Python code and understanding logic flow  
+- Practicing with loops, functions, conditionals, and error handling  
+- Working with lists, tuples, dictionaries, and file handling  
+- Using Git and GitHub to manage and publish code  
+- Creating beginner terminal apps to apply what I learn  
+- Analyzing and visualizing data using Pandas, NumPy, Seaborn, and Jupyter notebooks
 
-Practicing with loops, functions, conditionals, and error handling
-
-Working with lists, tuples, dictionaries, and file handling
-
-Using Git and GitHub to manage and publish code
-
-Creating beginner terminal apps to apply what I learn
-
-Analyzing and visualizing data using Pandas, NumPy, Seaborn, and Jupyter notebooks
 
 ---
 
