@@ -5,7 +5,6 @@
 📍 Kathmandu, Nepal | 🧠 Always learning and building small projects
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)]()
 
