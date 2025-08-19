@@ -5,14 +5,10 @@
 📍 Kathmandu, Nepal | 🧠 Always learning and building small projects
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)]()
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)]()
-[![Seaborn](https://img.shields.io/badge/Seaborn-004B87?style=plastic&logo=python&logoColor=white)]()
-[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)]()
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=plastic&logo=jupyter&logoColor=white)]()
+
 
 
 
