@@ -21,23 +21,21 @@
 ---
 
 ## 🚧 What I'm Working On
-📘 Exploring Python through mini terminal projects
+📘 Exploring Python through mini terminal projects  
 
-📊 Diving into data analysis and visualization with Jupyter notebooks
+🎯 Building confidence by creating beginner-friendly apps  
 
-🎯 Building confidence by creating beginner-friendly apps
+🧰 Documenting everything I learn in public  
 
-🧰 Documenting everything I learn in public
+🖥️ Looking forward to learning backend development with Django and REST APIs  
+
 
 ---
 
 ## 🧠 What I'm Learning
-- Writing clean Python code and understanding logic flow  
-- Practicing with loops, functions, conditionals, and error handling  
-- Working with lists, tuples, dictionaries, and file handling  
+- Writing clean Python code and understanding logic flow   
 - Using Git and GitHub to manage and publish code  
 - Creating beginner terminal apps to apply what I learn  
-
 
 ---
 
