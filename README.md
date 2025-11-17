@@ -27,7 +27,7 @@
 
 🧰 Documenting everything I learn in public  
 
-🖥️ Looking forward to learning backend development with Django and REST APIs  
+🖥️ Learning backend development with Django and REST APIs  
 
 
 ---
@@ -35,7 +35,8 @@
 ## 🧠 What I'm Learning
 - Writing clean Python code and understanding logic flow   
 - Using Git and GitHub to manage and publish code  
-- Creating beginner terminal apps to apply what I learn  
+- Creating beginner terminal apps to apply what I learn 
+- **Learning the Django Framework** to build my first e-commerce web application.
 
 ---
 
