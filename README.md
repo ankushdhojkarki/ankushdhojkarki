@@ -49,12 +49,12 @@ I began learning Python with the goal of building a future in tech. Over time, I
 
 ## 📂 Featured Projects
 
-📌 [Python-Mini-Projects](https://github.com/ankushdhojkarki/Python-Mini-Projects)  
-    A collection of terminal-based beginner projects I created to practice Python.  
+📌 [Python-Mini-Projects](https://github.com/ankushdhojkarki/Python-Mini-Projects)  
+    A collection of terminal-based beginner projects I created to practice Python.  
 ➡️ Topics include: calculator, quiz app, number guesser, and more.
 
-📌 [apple-nepal-ecommerce-project](https://github.com/ankushdhojkarki/apple-nepal-ecommerce-project) 
-    A clean, modern e-commerce front-end and a hands-on learning project for Django development.
+📌 [apple-nepal-ecommerce-project](https://github.com/ankushdhojkarki/apple-nepal-ecommerce-project) 
+    A clean, modern e-commerce front-end and a hands-on learning project for Django development.
 ➡️ This project is currently being developed to master core concepts of the Django framework, including templating, routing, context handling, static file management, and user authentication.
 
 
