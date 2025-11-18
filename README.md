@@ -53,9 +53,10 @@ I began learning Python with the goal of building a future in tech. Over time, I
 A collection of terminal-based beginner projects I created to practice Python.  
 ➡️ Topics include: calculator, quiz app, number guesser, and more.
 
-📌 [Data-Analysis-and-Visualization-with-Python](https://github.com/ankushdhojkarki/Data-Analysis-and-Visualization-with-Python)  
-Learning notebooks and exercises from the "Microsoft: Data Analysis and Visualization with Python" course.  
-➡️ Topics include: Jupyter, Pandas, NumPy, Seaborn, and practical data handling.
+📌 [apple-nepal-ecommerce-project]([https://github.com/ankushdhojkarki/Data-Analysis-and-Visualization-with-Python](https://github.com/ankushdhojkarki/apple-nepal-ecommerce-project))  
+A clean, modern e-commerce front-end and a hands-on learning project for Django development.
+
+➡️This project is currently being developed to master core concepts of the Django framework, including templating,       routing, context handling, static file management, and user authentication.
 
 
 ---
