@@ -7,6 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)]()
 
 
 
