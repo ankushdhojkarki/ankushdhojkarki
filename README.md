@@ -9,6 +9,19 @@
 [![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)]()
+[![Django REST Framework](https://img.shields.io/badge/Django_REST-A30000?style=plastic&logo=django&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=matplotlib&logoColor=white)]()
+[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=plastic&logo=windows&logoColor=white)]()
+[![Endpoint Central](https://img.shields.io/badge/Endpoint_Central-004B87?style=plastic&logo=manageengine&logoColor=white)]()
 
 
 
