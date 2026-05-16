@@ -53,7 +53,7 @@ I transitioned into software development with a passion for building powerful ba
 Personal portfolio website built with Django 5.2, featuring a dynamic project showcase, automated quote rotator and a contact system. Deployed on Vercel with PostgreSQL.
 
 📌 Python-Mini-Projects
-[cite_start]A collection of terminal-based and CLI utilities created to practice core Python fundamentals[cite: 54, 57]. [cite_start]Topics include: inventory management with file persistence, custom PDF merger utilities, password generators, and scheduling scripts[cite: 54, 56, 57, 58].
+A collection of terminal-based and CLI utilities created to practice core Python fundamentals. Topics include: inventory management with file persistence, custom PDF merger utilities, password generators, and scheduling scripts.
 
 
 ---
