@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Ankush Dhoj Karki
+# 👋 Hi, I'm Ankush Dhoj Karki 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Junior+Django+Developer;Python+%26+Backend+Engineering;System+Administration+Background&font=Fira+Code&size=16&duration=3500&pause=1200&color=475569&width=500&height=30&vCenter=true)
-
-📍 Kathmandu, Nepal | 🧠 Always learning and building robust backend solutions.
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Junior+Django+Developer;Python+%26+Backend+Engineering;System+Administration+Background;Kathmandu,+Nepal;Always+learning+and+building+robust+backend+solutions.&font=Fira+Code&size=16&duration=3500&pause=1200&color=475569&width=550&height=35&vCenter=true)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)]()
@@ -13,7 +11,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)]()
 [![Django REST Framework](https://img.shields.io/badge/Django_REST-A30000?style=plastic&logo=django&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=postgresql&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)]()
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)]()
