@@ -1,8 +1,8 @@
 
-# 👋 Hi, I'm Ankush Dhoj Karki
+# 👋 Hi, I'm Ankush Dhoj Karki 
 
-🎓 Python Beginner | 💻 Aspiring Python Developer | 📚 Sharing My Learning Journey  
-📍 Kathmandu, Nepal | 🧠 Always learning and building small projects
+🎓 Junior Django Developer | 💻 Python & Backend Engineering | 📚 System Administration Background 
+📍 Kathmandu, Nepal | 🧠 Always learning and building robust backend solutions.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)]()
@@ -23,47 +23,43 @@
 ---
 
 ## 🚧 What I'm Working On
-📘 Exploring Python through mini terminal projects  
-
-🎯 Building confidence by creating beginner-friendly apps  
-
-🧰 Documenting everything I learn in public  
-
-🖥️ Learning backend development with Django and REST APIs  
+📘 Exploring advanced Django architecture and REST frameworks.
+🎯 Building confidence by developing production-ready web applications.
+🧰 Documenting everything I learn in public.
+🖥️ Enhancing backend performance using Django ORM and third-party API integrations.
 
 
 ---
 
 ## 🧠 What I'm Learning
-- Writing clean Python code and understanding logic flow   
-- Using Git and GitHub to manage and publish code  
-- Creating beginner terminal apps to apply what I learn 
-- **Learning the Django Framework** to build my first e-commerce web application.
+- Writing clean, scalable Python code and mastering advanced logic flow.
+- Utilizing advanced Git and team-based workflows for seamless version control.
+- Implementing third-party APIs, authentication protocols, and web tracking tools.
+- Optimizing database interactions using complex Django ORM queries.
 
 ---
 
 ## 📘 My Learning Journey
-I began learning Python with the goal of building a future in tech. Over time, I’ve completed a Python bootcamp on Udemy and followed tutorials from creators like *Code With Harry*. During my internship, I worked with system administration tools like Endpoint Central and Active Directory. Right now, I'm exploring Git and GitHub while practicing consistently, building small projects, and learning how real-world tools and code work together.
+I transitioned into software development with a passion for building powerful backend architectures. Over time, I’ve reinforced my skills through professional courses, intensive bootcamps, and a Bachelor of Science in Information Technology. During my professional internship at Prixa Technologies, I worked as a Django Developer Intern—building real-time order tracking components, setting up automated post-purchase workflows, and integrating marketing tracking solutions like Meta Pixel. Before diving deep into Python, I gained valuable system administration experience at Rastriya Banijya Bank handling Active Directory and enterprise network infrastructure. Right now, I'm focused on writing clean code, building scalable systems, and collaborating with frontend teams to bring reliable applications to life.
 
 ---
 
 ## 📂 Featured Projects
 
-📌 [Python-Mini-Projects](https://github.com/ankushdhojkarki/Python-Mini-Projects)  
-    A collection of terminal-based beginner projects I created to practice Python. Topics include: calculator, quiz app, number guesser, and more.
+📌 Portfolio-project
+Personal portfolio website built with Django 5.2, featuring a dynamic project showcase, automated quote rotator, rotating quote section and a contact system. Deployed on Vercel with PostgreSQL.
 
-📌 [apple-nepal-ecommerce-project](https://github.com/ankushdhojkarki/apple-nepal-ecommerce-project) 
-    A clean, modern e-commerce front-end and a hands-on learning project for Django development. This project is currently being developed to master core concepts of the Django framework, including templating, routing, context handling, static file management, and user authentication.
+📌 Python-Mini-Projects
+A collection of terminal-based and CLI utilities created to practice core Python fundamentals. Topics include: inventory management with file persistence, custom PDF merger utilities, password generators, and scheduling scripts.
 
 
 ---
 
 ## 📈 My Goals
-- Strengthen my Python fundamentals by building real-world projects
-- Get comfortable using Git and GitHub by uploading my work
-- Document my learning journey consistently on GitHub and LinkedIn
-- Keep improving my problem-solving and logical thinking through practice
-
+- Strengthen my backend development expertise by building real-world enterprise applications.
+- Collaborate on collaborative open-source projects using Git and GitHub teams.
+- Document my technical challenges and milestones consistently on GitHub and LinkedIn.
+- Keep improving my problem-solving, architectural design, and logical database thinking.
 
 ---
 
