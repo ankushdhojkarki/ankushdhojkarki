@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ankush Dhoj Karki 
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Django+Developer;Python+%26+Backend+Engineering;System+Administration+Background&font=Fira+Code&size=20&duration=3000&pause=1000&color=3776AB&width=600&height=40&vCenter=true" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Django+Developer;Python+%26+Backend+Engineering;System+Administration+Background&font=Fira+Code&size=16&duration=3500&pause=1200&color=475569&width=500&height=35&vCenter=true" />
 </p>
 
 📍 Kathmandu, Nepal | 🧠 Always learning and building robust backend solutions.
