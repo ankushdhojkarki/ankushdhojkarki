@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Ankush Dhoj Karki 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Junior+Django+Developer;Python+%26+Backend+Engineering;System+Administration+Background&font=Fira+Code&size=16&duration=3500&pause=1200&color=475569&width=500&height=35&vCenter=true)
+<div>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Django+Developer;Python+%26+Backend+Engineering;System+Administration+Background&font=Fira+Code&size=16&duration=3500&pause=1200&color=475569&width=500&height=35&vCenter=true" alt="Typing SVG" />
+</div>
 
 📍 Kathmandu, Nepal | 🧠 Always learning and building robust backend solutions.
 
@@ -45,7 +47,7 @@
 ---
 
 ## 📘 My Learning Journey
-I transitioned into software development with a passion for building powerful backend architectures. [cite_start]Over time, I’ve reinforced my skills through professional courses, intensive bootcamps, and a Bachelor of Science in Information Technology[cite: 31, 51, 52]. [cite_start]During my professional internship at Prixa Technologies, I worked as a Django Developer Intern—building real-time order tracking components, setting up automated post-purchase workflows, and integrating marketing tracking solutions like Meta Pixel[cite: 21, 22, 25, 26, 27]. [cite_start]Before diving deep into Python, I gained valuable system administration experience at Rastriya Banijya Bank handling Active Directory and enterprise network infrastructure[cite: 13, 14, 15, 16]. [cite_start]Right now, I'm focused on writing clean code, building scalable systems, and collaborating with frontend teams to bring reliable applications to life[cite: 6, 7, 28].
+I transitioned into software development with a passion for building powerful backend architectures. [cite_start]Over time, I’ve reinforced my skills through professional courses, intensive bootcamps, and a Bachelor of Science in Information Technology[cite: 31, 51, 52]. [cite_start]During my professional internship at Prixa Technologies, I worked as a Django Developer Intern—building real-time order tracking components, setting up automated post-purchase workflows, and integrating marketing tracking solutions like Meta Pixel[cite: 21, 22, 25, 26, 27]. [cite_start]Before diving deep into Python, I gained valuable system administration experience at Rastriya Banijya Bank handling Active Directory and enterprise network infrastructure[cite: 13, 14, 15]. [cite_start]Right now, I'm focused on writing clean code, building scalable systems, and collaborating with frontend teams to bring reliable applications to life[cite: 7, 28].
 
 ---
 
@@ -55,7 +57,7 @@ I transitioned into software development with a passion for building powerful ba
 Personal portfolio website built with Django 5.2, featuring a dynamic project showcase, automated quote rotator and a contact system. Deployed on Vercel with PostgreSQL.
 
 📌 Python-Mini-Projects
-[cite_start]A collection of terminal-based and CLI utilities created to practice core Python fundamentals[cite: 54, 57]. [cite_start]Topics include: inventory management with file persistence, custom PDF merger utilities, password generators, and scheduling scripts[cite: 54, 56, 57, 58, 60].
+[cite_start]A collection of terminal-based and CLI utilities created to practice core Python fundamentals[cite: 54, 57]. [cite_start]Topics include: inventory management with file persistence, custom PDF merger utilities, password generators, and scheduling scripts[cite: 54, 56, 57, 58].
 
 
 ---
