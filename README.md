@@ -1,7 +1,8 @@
-
 # 👋 Hi, I'm Ankush Dhoj Karki 
 
-🎓 Junior Django Developer | 💻 Python & Backend Engineering | 📚 System Administration Background 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Django+Developer;Python+%26+Backend+Engineering;System+Administration+Background&font=Fira+Code&size=20&duration=3000&pause=1000&color=3776AB&width=600&height=40&vCenter=true" />
+</p>
 
 📍 Kathmandu, Nepal | 🧠 Always learning and building robust backend solutions.
 
@@ -22,17 +23,6 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=matplotlib&logoColor=white)]()
 [![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=plastic&logo=windows&logoColor=white)]()
 [![Endpoint Central](https://img.shields.io/badge/Endpoint_Central-004B87?style=plastic&logo=manageengine&logoColor=white)]()
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
@@ -83,12 +73,3 @@ A collection of terminal-based and CLI utilities created to practice core Python
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankush-dhoj-karki-59b0742ab/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankuskarki/)
-
-
-
-
-
-<!---
-ankushdhojkarki/ankushdhojkarki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
