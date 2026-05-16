@@ -25,8 +25,11 @@
 
 ## 🚧 What I'm Working On
 📘 Exploring advanced Django architecture and REST frameworks.
+
 🎯 Building confidence by developing production-ready web applications.
+
 🧰 Documenting everything I learn in public.
+
 🖥️ Enhancing backend performance using Django ORM and third-party API integrations.
 
 
