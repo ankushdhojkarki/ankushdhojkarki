@@ -43,7 +43,7 @@
 ---
 
 ## 📘 My Learning Journey
-I transitioned into software development with a passion for building powerful backend architectures. Over time, I’ve reinforced my skills through professional courses, intensive bootcamps, and a Bachelor of Science in Information Technology. During my professional internship at Prixa Technologies, I worked as a Django Developer Intern—building real-time order tracking components, setting up automated post-purchase workflows, and integrating marketing tracking solutions like Meta Pixel.Before diving deep into Python, I gained valuable system administration experience at Rastriya Banijya Bank handling Active Directory and enterprise network infrastructure.Right now, I'm focused on writing clean code, building scalable systems, and collaborating with frontend teams to bring reliable applications to life.
+I transitioned into software development with a passion for building powerful backend architectures. Over time, I’ve reinforced my skills through professional courses, intensive bootcamps, and a Bachelor of Science in Information Technology. During my professional internship at Prixa Technologies, I worked as a Django Developer Intern—building real-time order tracking components, setting up automated post-purchase workflows, and integrating marketing tracking solutions like Meta Pixel. Before diving deep into Python, I gained valuable system administration experience at Rastriya Banijya Bank handling Active Directory and enterprise network infrastructure. Right now, I'm focused on writing clean code, building scalable systems, and collaborating with frontend teams to bring reliable applications to life.
 
 ---
 
