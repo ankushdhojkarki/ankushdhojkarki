@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankush Dhoj Karki 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Junior+Django+Developer;Python+%26+Backend+Engineering;System+Administration+Background;Kathmandu,+Nepal;Always+learning+and+building+robust+backend+solutions.&font=Fira+Code&size=16&duration=3500&pause=1200&color=475569&width=550&height=35&vCenter=true)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Team+Lead;Django+Developer;Python+%26+Backend+Engineering;System+Administration+Background;Kathmandu,+Nepal;Always+learning+and+building+robust+backend+solutions.&font=Fira+Code&size=16&duration=3500&pause=1200&color=475569&width=550&height=35&vCenter=true)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)]()
