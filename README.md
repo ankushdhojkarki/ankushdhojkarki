@@ -41,7 +41,7 @@
 ---
 
 ## 📘 My Journey
-I started with Django Template Language basics and syntax-level familiarity from an internship at Prixa Technologies, where I worked on real-time order tracking, post-purchase automation, and marketing integrations like Meta Pixel. Before that, I built a systems administration foundation at Rastriya Banijya Bank, managing Active Directory and enterprise network infrastructure.
+I started with Django Template Language basics and syntax-level familiarity, where I worked on real-time order tracking, post-purchase automation, and marketing integrations like Meta Pixel. Before that, I built a systems administration foundation, managing Active Directory and enterprise network infrastructure.
 
 I've since moved into a backend lead role, going from limited DRF experience to owning core parts of a production system — while being deliberate about building real understanding rather than pattern-matching my way through.
 
